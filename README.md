@@ -17,7 +17,7 @@ This project implements a terminal-based chat application using **Python socket 
 ```
 Project3/
 ├── internet_chatting.py    # Main script for running the chat system
-├── New.txt                 # (Optional) Log or instruction file
+├── New.txt                 # text file Generated
 ```
 
 ---
@@ -69,6 +69,6 @@ Project3/
 
 ## 👨‍💻 Author
 
-[Your Name]  
+[MAYANK GARG]  
 University of Florida  
 Course: CNT 5106 – Computer Networks
